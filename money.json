@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2024-03-05",
+    "amount": 55000,
+    "description": "Salary"
+  },
+  {
+    "date": "2024-03-10",
+    "amount": -1800,
+    "description": "Children's World toys"
+  },
+  {
+    "date": "2024-03-12",
+    "amount": -650,
+    "description": "Pharmacy medications"
+  },
+  {
+    "date": "2024-03-15",
+    "amount": -300,
+    "description": "Metro pass"
+  },
+  {
+    "date": "2024-03-18",
+    "amount": -4500,
+    "description": "M.Video electronics"
+  },
+  {
+    "date": "2024-03-20",
+    "amount": -1200,
+    "description": "Pet store food"
+  },
+  {
+    "date": "2024-03-22",
+    "amount": -800,
+    "description": "SportMaster equipment"
+  },
+  {
+    "date": "2024-03-25",
+    "amount": 15000,
+    "description": "Bonus"
+  },
+  {
+    "date": "2024-03-28",
+    "amount": -3500,
+    "description": "Furniture store"
+  },
+  {
+    "date": "2024-03-30",
+    "amount": -1200,
+    "description": "Beauty salon"
+  }
+]
